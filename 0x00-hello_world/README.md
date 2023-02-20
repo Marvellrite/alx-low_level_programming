@@ -11,3 +11,5 @@
 5-printf.c: This C program that prints exactly "with proper grammar, but the outcome is a piece of art," ,followed by a new line.
 
 6-size.c: This C program prints the size of various types on the computer it is compiled.
+
+100-intel:  This script generates the assembly code (Intel syntax) of a C code and save it in an output file.
