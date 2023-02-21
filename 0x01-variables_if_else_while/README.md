@@ -1,0 +1,1 @@
+0-positive_or_negative.c: This progr assigns a random real number to n and teoos wether it is positive, negative or equal to zero
