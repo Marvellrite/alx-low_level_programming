@@ -11,5 +11,5 @@ int letter;
 for (letter = 97; letter < 123; letter++)
 putchar(letter);
 putchar('\n');
- return (0);
+return (0);
 }
