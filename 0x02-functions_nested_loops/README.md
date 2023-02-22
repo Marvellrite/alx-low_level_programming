@@ -4,4 +4,6 @@
 
 2-print_alphabet_x10.c: Contains a function which prints the letters of the alphabet in small letters ten times.
 
-3-islower.c: This program file prints "1" if a character is lower and 0 if a character is not.
+3-islower.c: This program file prints "1" if a character is lower and "0" if a character is not.
+
+4-isalpha.c: This program contains a function that prints "1" if a character is a letter and "0" if it is not.
