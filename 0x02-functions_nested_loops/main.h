@@ -3,8 +3,7 @@
 
 #include<unistd.h>
 
-int _putchar(char c);
-void print_alphabet(void);
+
 
 /**
  * _putchar - writes the character c to stdout
@@ -26,8 +25,8 @@ void print_alphabet(void)
 {
 int letter;
 for (letter = 97; letter < 123; letter++)
-_putchar (letter);
-_putchar ('\n');
+_putchar(letter);
+_putchar('\n');
 }
 
 #endif
