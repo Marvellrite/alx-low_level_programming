@@ -7,3 +7,5 @@
 3-islower.c: This program file prints "1" if a character is lower and "0" if a character is not.
 
 4-isalpha.c: This program contains a function that prints "1" if a character is a letter and "0" if it is not.
+
+6-abs.c: This program returns the absolute value of a number.
