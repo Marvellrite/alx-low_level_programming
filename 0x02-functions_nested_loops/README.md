@@ -3,3 +3,5 @@
 1-alphabet.c: Contained within this program file is afunction that prints the letters of the alphabet in small letters.
 
 2-print_alphabet_x10.c: Contains a function which prints the letters of the alphabet in small letters ten times.
+
+3-islower.c: This program file prints "1" if a character is lower and 0 if a character is not.
