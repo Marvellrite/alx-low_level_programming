@@ -8,4 +8,6 @@
 
 4-isalpha.c: This program contains a function that prints "1" if a character is a letter and "0" if it is not.
 
-6-abs.c: This program returns the absolute value of a number.
+5-sign.c: This program contains a function that prints the sign of a number.
+
+6-abs.c: This program returns the absolute value of anumber.
