@@ -11,3 +11,5 @@
 5-sign.c: This program contains a function that prints the sign of a number.
 
 6-abs.c: This program returns the absolute value of anumber.
+
+7-print_last_digit.c: This program contains prints the last digit of a number.

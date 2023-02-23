@@ -1,0 +1,14 @@
+#include"main.h"
+
+
+int print_last_digit(int n)
+{
+int ldigit;
+
+if (n < 0)
+ldigit = (n / -1) % 10;
+else
+ldigit = n % 10;
+
+_putchar(ldigit + '0');
+}
